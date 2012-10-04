@@ -18,6 +18,8 @@
 			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home2.jpg');"></div>
 			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home3.jpg');"></div>
 			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home4.jpg');"></div>
+			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home5.jpg');"></div>
+			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home6.jpg');"></div>
 		</section>
 	</section>
 	<footer>
