@@ -3,8 +3,9 @@
 <head>
 	<meta charset="utf-8" />
 	<title>..::UnderDev::..</title>
-	<link rel="stylesheet" type="text/css" href="1styles.css" />
-	<link rel="stylesheet" type="text/css" href="underdev.css" />
+	<link href="<?php bloginfo('template_url'); ?>\1styles.css" rel="stylesheet" type="text/css">
+	<link href="<?php bloginfo('template_url'); ?>\style.css" rel="stylesheet" type="text/css">
+
 	<script type="text/javascript" src="scripts/html5shiv.js"></script>
 </head>
 </head>
