@@ -12,15 +12,12 @@
 <body>
 	<header></header>
 	<section class='slideshow'>
-		<div class="logo">
-			<h1 class="indent">Zigorat</h1>
-		</div>
 		<div class="noise"></div>
 		<section class="backimg">
-			<div style="background-image:url('images/under-gallery/home1.jpg');"></div>
-			<div style="background-image:url('images/under-gallery/home2.jpg');"></div>
-			<div style="background-image:url('images/under-gallery/home3.jpg');"></div>
-			<div style="background-image:url('images/under-gallery/home4.jpg');"></div>
+			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home1.jpg');"></div>
+			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home2.jpg');"></div>
+			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home3.jpg');"></div>
+			<div style="background-image:url('<?php bloginfo('template_url'); ?>/images/under-gallery/home4.jpg');"></div>
 		</section>
 	</section>
 	<footer>
