@@ -25,7 +25,7 @@
 	<footer>
 		<h1>Under Construction</h1>
 	</footer>
-	<script type="text/javascript"> document.write('<script type="text/javascript" src=scripts/' + ('__proto__' in {} ? 'zepto' : 'jquery') + '.js><\/script>'); </script>
-	<script type="text/javascript" src="scripts/underdev.js"></script>
+	<script type="text/javascript"> document.write('<script type="text/javascript" src=<?php bloginfo('template_url'); ?>/scripts/' + ('__proto__' in {} ? 'zepto' : 'jquery') + '.js><\/script>'); </script>
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/scripts/underdev.js"></script>
 </body>
 </html>
